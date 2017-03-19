@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head itemscope itemtype="http://schema.org/WebSite">
+<meta charset="UTF-8" />
+<title>Genesis Framework – Supports HTML5 &amp; Responsive Design</title><meta name="description" content="Supports HTML5 &amp; Responsive Design" />
+		<meta name="robots" content="noodp,noydir" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Genesis Framework &raquo; Feed" href="https://demo.studiopress.com/genesis-sample/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Genesis Framework &raquo; Comments Feed" href="https://demo.studiopress.com/genesis-sample/comments/feed/" />
+<link rel="canonical" href="https://demo.studiopress.com/genesis-sample/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/demo.studiopress.com\/genesis-sample\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='genesis-sample-css'  href='https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis-sample/style.css?ver=2.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.14' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.6.14' type='text/css' media='only screen and (max-width: 1200px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.14' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-sample-woocommerce-styles-css'  href='https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis-sample/lib/woocommerce/genesis-sample-woocommerce.css?ver=2.3.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='wc-memberships-frontend-css'  href='https://demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce-memberships/assets/css/frontend/wc-memberships-frontend.min.css?ver=1.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-sample-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%2C700&#038;ver=2.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://demo.studiopress.com/genesis-sample/wp-includes/css/dashicons.min.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-social-icons-font-css'  href='https://demo.studiopress.com/genesis-sample/wp-content/plugins/simple-social-icons/css/style.css?ver=2.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://demo.studiopress.com/genesis-sample/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://demo.studiopress.com/genesis-sample/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis/lib/js/skip-links.js?ver=4.7.2'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='https://demo.studiopress.com/genesis-sample/wp-content/plugins/simple-social-icons/svgxuse.js?ver=1.1.21'></script>
+<link rel='https://api.w.org/' href='https://demo.studiopress.com/genesis-sample/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://demo.studiopress.com/genesis-sample/xmlrpc.php?rsd" />
+<style type="text/css"> .enews .screenread {
+	height: 1px;
+    left: -1000em;
+    overflow: hidden;
+    position: absolute;
+    top: -1000em;
+    width: 1px; } </style><link rel="icon" href="https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis-sample/images/favicon.ico" />
+<link rel="pingback" href="https://demo.studiopress.com/genesis-sample/xmlrpc.php" />
+<link rel="next" href="https://demo.studiopress.com/genesis-sample/page/2/" />
+<meta itemprop="name" content="Genesis Framework" />
+<meta itemprop="url" content="https://demo.studiopress.com/genesis-sample/" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" media="screen"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus { background-color: #eeeeee !important; border-radius: 3px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 22px; padding: 11px; }  .simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus { background-color: #333333 !important; border-color: #ffffff !important; color: #ffffff !important; }  .simple-social-icons ul li a:focus { outline: 1px dotted #333333 !important; }</style></head>
+<body class="home blog custom-header content-sidebar" itemscope itemtype="http://schema.org/WebPage"><div class="site-container"><section><h2 class="screen-reader-text">Skip links</h2><ul class="genesis-skip-link"><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to content</a></li><li><a href="#genesis-sidebar-primary" class="screen-reader-shortcut"> Skip to primary sidebar</a></li><li><a href="#genesis-footer-widgets" class="screen-reader-shortcut"> Skip to footer</a></li></ul></section>
+<header class="site-header" itemscope itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><h1 class="site-title" itemprop="headline"><a href="https://demo.studiopress.com/genesis-sample/">Genesis Framework</a></h1><p class="site-description" itemprop="description">Supports HTML5 &amp; Responsive Design</p></div><div class="widget-area header-widget-area"><h2 class="genesis-sidebar-title screen-reader-text">Header Right</h2><section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><nav class="nav-header" itemscope itemtype="http://schema.org/SiteNavigationElement"><ul id="menu-header-navigation" class="menu genesis-nav-menu js-superfish"><li id="menu-item-455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-455"><a href="https://demo.studiopress.com/genesis-sample/sample/" itemprop="url"><span itemprop="name">Sample</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488"><a href="https://demo.studiopress.com/genesis-sample/author/admin/" itemprop="url"><span itemprop="name">Author Archive</span></a></li>
+	<li id="menu-item-451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a href="https://demo.studiopress.com/genesis-sample/sample/columns/" itemprop="url"><span itemprop="name">Columns Page</span></a></li>
+	<li id="menu-item-487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-487"><a href="https://demo.studiopress.com/genesis-sample/sample/typography/" itemprop="url"><span itemprop="name">Typography</span></a></li>
+</ul>
+</li>
+<li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20"><a href="#" itemprop="url"><span itemprop="name">Layouts</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452"><a href="https://demo.studiopress.com/genesis-sample/layouts/cs/" itemprop="url"><span itemprop="name">Content/Sidebar</span></a></li>
+	<li id="menu-item-456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-456"><a href="https://demo.studiopress.com/genesis-sample/layouts/sc/" itemprop="url"><span itemprop="name">Sidebar/Content</span></a></li>
+	<li id="menu-item-453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="https://demo.studiopress.com/genesis-sample/layouts/css/" itemprop="url"><span itemprop="name">Content/Sidebar/Sidebar</span></a></li>
+	<li id="menu-item-458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-458"><a href="https://demo.studiopress.com/genesis-sample/layouts/ssc/" itemprop="url"><span itemprop="name">Sidebar/Sidebar/Content</span></a></li>
+	<li id="menu-item-457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-457"><a href="https://demo.studiopress.com/genesis-sample/layouts/scs/" itemprop="url"><span itemprop="name">Sidebar/Content/Sidebar</span></a></li>
+	<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="https://demo.studiopress.com/genesis-sample/layouts/fwc/" itemprop="url"><span itemprop="name">Full Width Content</span></a></li>
+</ul>
+</li>
+<li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21"><a href="#" itemprop="url"><span itemprop="name">Templates</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="https://demo.studiopress.com/genesis-sample/templates/archive/" itemprop="url"><span itemprop="name">Archive Page</span></a></li>
+	<li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="https://demo.studiopress.com/genesis-sample/templates/blog/" itemprop="url"><span itemprop="name">Blog Page</span></a></li>
+	<li id="menu-item-475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a href="https://demo.studiopress.com/genesis-sample/templates/landing-page/" itemprop="url"><span itemprop="name">Landing Page</span></a></li>
+</ul>
+</li>
+<li id="menu-item-468" class="last menu-item menu-item-type-post_type menu-item-object-page menu-item-468"><a href="https://demo.studiopress.com/genesis-sample/sample/contact/" itemprop="url"><span itemprop="name">Contact</span></a></li>
+</ul></nav></div></section>
+</div></div></header><h2 class="screen-reader-text">Main navigation</h2><nav class="nav-primary" itemscope itemtype="http://schema.org/SiteNavigationElement" id="genesis-nav-primary" aria-label="Main navigation"><div class="wrap"><ul id="menu-after-header-navigation" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-7" class="first menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="https://demo.studiopress.com/genesis-sample/category/category-1/" itemprop="url"><span itemprop="name">Category #1</span></a></li>
+<li id="menu-item-8" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8"><a href="https://demo.studiopress.com/genesis-sample/category/category-2/" itemprop="url"><span itemprop="name">Category #2</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-11"><a href="https://demo.studiopress.com/genesis-sample/category/category-1/sub-category-11/" itemprop="url"><span itemprop="name">Sub Category 1.1</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-14"><a href="https://demo.studiopress.com/genesis-sample/category/category-1/sub-category-11/sub-category-21/" itemprop="url"><span itemprop="name">Sub Category 2.1</span></a>
+		<ul class="sub-menu">
+			<li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17"><a href="https://demo.studiopress.com/genesis-sample/category/category-1/sub-category-11/sub-category-21/sub-category-31/" itemprop="url"><span itemprop="name">Sub Category 3.1</span></a></li>
+			<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18"><a href="https://demo.studiopress.com/genesis-sample/category/category-1/sub-category-11/sub-category-21/sub-category-32/" itemprop="url"><span itemprop="name">Sub Category 3.2</span></a></li>
+			<li id="menu-item-19" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19"><a href="https://demo.studiopress.com/genesis-sample/category/category-1/sub-category-11/sub-category-21/sub-category-33/" itemprop="url"><span itemprop="name">Sub Category 3.3</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="https://demo.studiopress.com/genesis-sample/category/category-1/sub-category-11/sub-category-22/" itemprop="url"><span itemprop="name">Sub Category 2.2</span></a></li>
+		<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16"><a href="https://demo.studiopress.com/genesis-sample/category/category-1/sub-category-11/sub-category-23/" itemprop="url"><span itemprop="name">Sub Category 2.3</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="https://demo.studiopress.com/genesis-sample/category/category-1/sub-category-12/" itemprop="url"><span itemprop="name">Sub Category 1.2</span></a></li>
+	<li id="menu-item-13" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13"><a href="https://demo.studiopress.com/genesis-sample/category/category-1/sub-category-13/" itemprop="url"><span itemprop="name">Sub Category 1.3</span></a></li>
+</ul>
+</li>
+<li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a href="https://demo.studiopress.com/genesis-sample/category/category-3/" itemprop="url"><span itemprop="name">Category #3</span></a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10"><a href="https://demo.studiopress.com/genesis-sample/category/category-4/" itemprop="url"><span itemprop="name">Category #4</span></a></li>
+<li id="menu-item-1222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1222"><a href="https://demo.studiopress.com/genesis-sample/woocommerce/shop/" itemprop="url"><span itemprop="name">Our Shop</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1223" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1223"><a href="https://demo.studiopress.com/genesis-sample/product/amp/" itemprop="url"><span itemprop="name">Product</span></a></li>
+	<li id="menu-item-1219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1219"><a href="https://demo.studiopress.com/genesis-sample/woocommerce/my-account/" itemprop="url"><span itemprop="name">My Account</span></a></li>
+	<li id="menu-item-1220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1220"><a href="https://demo.studiopress.com/genesis-sample/woocommerce/checkout/" itemprop="url"><span itemprop="name">Checkout</span></a></li>
+	<li id="menu-item-1221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1221"><a href="https://demo.studiopress.com/genesis-sample/woocommerce/cart/" itemprop="url"><span itemprop="name">Cart</span></a></li>
+</ul>
+</li>
+<li id="menu-item-441" class="right last menu-item menu-item-type-custom menu-item-object-custom menu-item-441"><a href="http://www.studiopress.com" itemprop="url"><span itemprop="name">Get Genesis Now!</span></a></li>
+</ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><article class="post-447 post type-post status-publish format-standard category-category-1 tag-threaded-comments entry" itemscope itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://demo.studiopress.com/genesis-sample/threaded-comments/" rel="bookmark">Sample Post With Threaded Comments</a></h2> 
+<p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2016-11-01T01:57:18+00:00">November 1, 2016</time> by <span class="entry-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="https://demo.studiopress.com/genesis-sample/author/admin/" class="entry-author-link" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Brian Gardner</span></a></span> <span class="entry-comments-link"><a href="https://demo.studiopress.com/genesis-sample/threaded-comments/#comments">8 Comments</a></span> </p></header><div class="entry-content" itemprop="text"><p><img src="https://demo.studiopress.com/genesis-sample/files/2013/09/featured-image.jpg" alt="featured-image" width="720" height="400" class="alignnone size-full wp-image-482" srcset="https://demo.studiopress.com/genesis-sample/files/2013/09/featured-image.jpg 720w, https://demo.studiopress.com/genesis-sample/files/2013/09/featured-image-300x167.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /></p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+</div><footer class="entry-footer"><p class="entry-meta"><span class="entry-categories">Filed Under: <a href="https://demo.studiopress.com/genesis-sample/category/category-1/" rel="category tag">Category #1</a></span> <span class="entry-tags">Tagged With: <a href="https://demo.studiopress.com/genesis-sample/tag/threaded-comments/" rel="tag">Threaded Comments</a></span></p></footer></article><article class="post-446 post type-post status-publish format-standard category-category-1 tag-images-left entry" itemscope itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://demo.studiopress.com/genesis-sample/image-aligned-left/" rel="bookmark">Sample Post With Image Aligned Left</a></h2> 
+<p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2016-11-01T01:57:05+00:00">November 1, 2016</time> by <span class="entry-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="https://demo.studiopress.com/genesis-sample/author/admin/" class="entry-author-link" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Brian Gardner</span></a></span> <span class="entry-comments-link"><a href="https://demo.studiopress.com/genesis-sample/image-aligned-left/#respond">Leave a Comment</a></span> </p></header><div class="entry-content" itemprop="text"><figure style="width: 200px" class="wp-caption alignleft"><img alt="Heres a sample caption, with a sample image aligned left." src="https://demo.studiopress.com/genesis-sample/files/2016/05/wordpress.png" width="200" height="200" /><figcaption class="wp-caption-text">Here&#039;s a sample caption with an image aligned left.</figcaption></figure>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+</div><footer class="entry-footer"><p class="entry-meta"><span class="entry-categories">Filed Under: <a href="https://demo.studiopress.com/genesis-sample/category/category-1/" rel="category tag">Category #1</a></span> <span class="entry-tags">Tagged With: <a href="https://demo.studiopress.com/genesis-sample/tag/images-left/" rel="tag">Images Left</a></span></p></footer></article><article class="post-445 post type-post status-publish format-standard category-category-1 tag-images-right entry" itemscope itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://demo.studiopress.com/genesis-sample/image-aligned-right/" rel="bookmark">Sample Post With Image Aligned Right</a></h2> 
+<p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2016-11-01T01:56:30+00:00">November 1, 2016</time> by <span class="entry-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="https://demo.studiopress.com/genesis-sample/author/admin/" class="entry-author-link" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Brian Gardner</span></a></span> <span class="entry-comments-link"><a href="https://demo.studiopress.com/genesis-sample/image-aligned-right/#respond">Leave a Comment</a></span> </p></header><div class="entry-content" itemprop="text"><figure style="width: 200px" class="wp-caption alignright"><img alt="Here's a sample caption with a sample image aligned right." src="https://demo.studiopress.com/genesis-sample/files/2016/05/wordpress.png" width="200" height="200" /><figcaption class="wp-caption-text">Here's a sample caption with an image aligned right.</figcaption></figure>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+</div><footer class="entry-footer"><p class="entry-meta"><span class="entry-categories">Filed Under: <a href="https://demo.studiopress.com/genesis-sample/category/category-1/" rel="category tag">Category #1</a></span> <span class="entry-tags">Tagged With: <a href="https://demo.studiopress.com/genesis-sample/tag/images-right/" rel="tag">Images Right</a></span></p></footer></article><article class="post-444 post type-post status-publish format-standard category-category-1 tag-images-centered entry" itemscope itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://demo.studiopress.com/genesis-sample/image-centered/" rel="bookmark">Sample Post With Image Centered</a></h2> 
+<p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2016-11-01T01:55:21+00:00">November 1, 2016</time> by <span class="entry-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="https://demo.studiopress.com/genesis-sample/author/admin/" class="entry-author-link" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Brian Gardner</span></a></span> <span class="entry-comments-link"><a href="https://demo.studiopress.com/genesis-sample/image-centered/#respond">Leave a Comment</a></span> </p></header><div class="entry-content" itemprop="text"><figure style="width: 200px" class="wp-caption aligncenter"><img alt="Here's a sample caption with a sample image centered." src="https://demo.studiopress.com/genesis-sample/files/2016/05/wordpress.png" width="200" height="200" /><figcaption class="wp-caption-text">Here's a sample caption with an image centered.</figcaption></figure>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+</div><footer class="entry-footer"><p class="entry-meta"><span class="entry-categories">Filed Under: <a href="https://demo.studiopress.com/genesis-sample/category/category-1/" rel="category tag">Category #1</a></span> <span class="entry-tags">Tagged With: <a href="https://demo.studiopress.com/genesis-sample/tag/images-centered/" rel="tag">Images Centered</a></span></p></footer></article><article class="post-443 post type-post status-publish format-standard category-category-1 tag-unordered-lists entry" itemscope itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://demo.studiopress.com/genesis-sample/unordered-list/" rel="bookmark">Sample Post With an Unordered List</a></h2> 
+<p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2016-11-01T01:54:48+00:00">November 1, 2016</time> by <span class="entry-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="https://demo.studiopress.com/genesis-sample/author/admin/" class="entry-author-link" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Brian Gardner</span></a></span> <span class="entry-comments-link"><a href="https://demo.studiopress.com/genesis-sample/unordered-list/#respond">Leave a Comment</a></span> </p></header><div class="entry-content" itemprop="text"><p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<ul>
+<li>Unordered list item #1</li>
+<li>Unordered list item #2</li>
+<li>Unordered list item #3</li>
+<li>Unordered list item #4</li>
+<li>Unordered list item #5</li>
+</ul>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+</div><footer class="entry-footer"><p class="entry-meta"><span class="entry-categories">Filed Under: <a href="https://demo.studiopress.com/genesis-sample/category/category-1/" rel="category tag">Category #1</a></span> <span class="entry-tags">Tagged With: <a href="https://demo.studiopress.com/genesis-sample/tag/unordered-lists/" rel="tag">Unordered Lists</a></span></p></footer></article><div class="archive-pagination pagination"><ul><li class="active"  aria-label="Current page"><a href="https://demo.studiopress.com/genesis-sample/"><span class="screen-reader-text">Page </span>1</a></li>
+<li><a href="https://demo.studiopress.com/genesis-sample/page/2/"><span class="screen-reader-text">Page </span>2</a></li>
+<li class="pagination-next"><a href="https://demo.studiopress.com/genesis-sample/page/2/" >Next Page &#x000BB;</a></li>
+</ul></div>
+</main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="http://schema.org/WPSideBar" id="genesis-sidebar-primary"><h2 class="genesis-sidebar-title screen-reader-text">Primary Sidebar</h2><section id="enews-ext-2" class="widget enews-widget"><div class="widget-wrap"><div class="enews"><h3 class="widgettitle widget-title">Email Newsletter</h3>
+<p>Sign up to receive email updates and to hear what's going on with our company!</p>
+			<form id="subscribeenews-ext-2" action="post" method="post"  target="_blank" onsubmit="if ( subbox1.value == 'Your Name') { subbox1.value = ''; } if ( subbox2.value == 'Last Name') { subbox2.value = ''; }" name="enews-ext-2">
+				<label for="subbox1" class="screenread">Your Name</label><input type="text" id="subbox1" class="enews-subbox" value="" placeholder="Your Name" name="First Name" />								<label for="subbox" class="screenread">E-Mail Address</label><input type="email" value="" id="subbox" placeholder="E-Mail Address" name="" required="required" />
+								<input type="submit" value="Subscribe" id="subbutton" />
+			</form>
+		</div></div></section>
+<section id="simple-social-icons-2" class="widget simple-social-icons"><div class="widget-wrap"><h3 class="widgettitle widget-title">Social icons</h3>
+<ul class="alignleft"><li class="ssi-email"><a href="https://demo.studiopress.com/genesis-sample/" ><svg role="img" class="social-email" aria-labelledby="social-email"><title id="social-email">Email</title><use xlink:href="https://demo.studiopress.com/genesis-sample/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-email"></use></svg></a></li><li class="ssi-facebook"><a href="https://demo.studiopress.com/genesis-sample/" ><svg role="img" class="social-facebook" aria-labelledby="social-facebook"><title id="social-facebook">Facebook</title><use xlink:href="https://demo.studiopress.com/genesis-sample/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-gplus"><a href="https://demo.studiopress.com/genesis-sample/" ><svg role="img" class="social-gplus" aria-labelledby="social-gplus"><title id="social-gplus">Google+</title><use xlink:href="https://demo.studiopress.com/genesis-sample/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-gplus"></use></svg></a></li><li class="ssi-instagram"><a href="https://demo.studiopress.com/genesis-sample/" ><svg role="img" class="social-instagram" aria-labelledby="social-instagram"><title id="social-instagram">Instagram</title><use xlink:href="https://demo.studiopress.com/genesis-sample/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-linkedin"><a href="https://demo.studiopress.com/genesis-sample/" ><svg role="img" class="social-linkedin" aria-labelledby="social-linkedin"><title id="social-linkedin">Linkedin</title><use xlink:href="https://demo.studiopress.com/genesis-sample/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-linkedin"></use></svg></a></li><li class="ssi-pinterest"><a href="https://demo.studiopress.com/genesis-sample/" ><svg role="img" class="social-pinterest" aria-labelledby="social-pinterest"><title id="social-pinterest">Pinterest</title><use xlink:href="https://demo.studiopress.com/genesis-sample/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://demo.studiopress.com/genesis-sample/" ><svg role="img" class="social-rss" aria-labelledby="social-rss"><title id="social-rss">RSS</title><use xlink:href="https://demo.studiopress.com/genesis-sample/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://demo.studiopress.com/genesis-sample/" ><svg role="img" class="social-twitter" aria-labelledby="social-twitter"><title id="social-twitter">Twitter</title><use xlink:href="https://demo.studiopress.com/genesis-sample/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-vimeo"><a href="https://demo.studiopress.com/genesis-sample/" ><svg role="img" class="social-vimeo" aria-labelledby="social-vimeo"><title id="social-vimeo">Vimeo</title><use xlink:href="https://demo.studiopress.com/genesis-sample/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-vimeo"></use></svg></a></li><li class="ssi-youtube"><a href="https://demo.studiopress.com/genesis-sample/" ><svg role="img" class="social-youtube" aria-labelledby="social-youtube"><title id="social-youtube">YouTube</title><use xlink:href="https://demo.studiopress.com/genesis-sample/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<section id="search-3" class="widget widget_search"><div class="widget-wrap"><form class="search-form" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" method="get" action="https://demo.studiopress.com/genesis-sample/" role="search"><meta itemprop="target" content="https://demo.studiopress.com/genesis-sample/?s={s}"/><label class="search-form-label screen-reader-text" for="searchform-58bf72847c5c8">Search this website</label><input itemprop="query-input" type="search" name="s" id="searchform-58bf72847c5c8" placeholder="Search this website &#x2026;" /><input type="submit" value="Search" /></form></div></section>
+		<section id="recent-posts-5" class="widget widget_recent_entries"><div class="widget-wrap">		<h3 class="widgettitle widget-title">Recent Posts</h3>
+		<ul>
+					<li>
+				<a href="https://demo.studiopress.com/genesis-sample/threaded-comments/">Sample Post With Threaded Comments</a>
+						</li>
+					<li>
+				<a href="https://demo.studiopress.com/genesis-sample/image-aligned-left/">Sample Post With Image Aligned Left</a>
+						</li>
+					<li>
+				<a href="https://demo.studiopress.com/genesis-sample/image-aligned-right/">Sample Post With Image Aligned Right</a>
+						</li>
+					<li>
+				<a href="https://demo.studiopress.com/genesis-sample/image-centered/">Sample Post With Image Centered</a>
+						</li>
+					<li>
+				<a href="https://demo.studiopress.com/genesis-sample/unordered-list/">Sample Post With an Unordered List</a>
+						</li>
+				</ul>
+		</div></section>
+		</aside></div></div><div class="footer-widgets" id="genesis-footer-widgets"><h2 class="genesis-sidebar-title screen-reader-text">Footer</h2><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="text-2" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">Genesis Framework</h3>
+			<div class="textwidget"><p>This theme is a sample child theme for the Genesis Framework. Download your copy today, free with the purchase of the Genesis Framework by StudioPress.</p>
+<p><a href="http://www.studiopress.com/" class="button">Get Genesis Now!</a></p>
+</div>
+		</div></section>
+</div><div class="footer-widgets-2 widget-area">		<section id="recent-posts-4" class="widget widget_recent_entries"><div class="widget-wrap">		<h3 class="widgettitle widget-title">Recent Posts</h3>
+		<ul>
+					<li>
+				<a href="https://demo.studiopress.com/genesis-sample/threaded-comments/">Sample Post With Threaded Comments</a>
+						</li>
+					<li>
+				<a href="https://demo.studiopress.com/genesis-sample/image-aligned-left/">Sample Post With Image Aligned Left</a>
+						</li>
+					<li>
+				<a href="https://demo.studiopress.com/genesis-sample/image-aligned-right/">Sample Post With Image Aligned Right</a>
+						</li>
+					<li>
+				<a href="https://demo.studiopress.com/genesis-sample/image-centered/">Sample Post With Image Centered</a>
+						</li>
+					<li>
+				<a href="https://demo.studiopress.com/genesis-sample/unordered-list/">Sample Post With an Unordered List</a>
+						</li>
+				</ul>
+		</div></section>
+		</div><div class="footer-widgets-3 widget-area"><section id="recent-comments-3" class="widget widget_recent_comments"><div class="widget-wrap"><h3 class="widgettitle widget-title">Recent Comments</h3>
+<ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Brian Gardner</span> on <a href="https://demo.studiopress.com/genesis-sample/threaded-comments/#comment-7">Sample Post With Threaded Comments</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://www.briangardner.com/' rel='external nofollow' class='url'>Brian Gardner</a></span> on <a href="https://demo.studiopress.com/genesis-sample/threaded-comments/#comment-6">Sample Post With Threaded Comments</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://www.briangardner.com/' rel='external nofollow' class='url'>Brian Gardner</a></span> on <a href="https://demo.studiopress.com/genesis-sample/threaded-comments/#comment-5">Sample Post With Threaded Comments</a></li></ul></div></section>
+</div></div></div><footer class="site-footer" itemscope itemtype="http://schema.org/WPFooter"><div class="wrap"><nav class="nav-secondary" itemscope itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-footer-navigation" class="menu genesis-nav-menu menu-secondary js-superfish"><li id="menu-item-476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-476"><a href="#" itemprop="url"><span itemprop="name">Twitter</span></a></li>
+<li id="menu-item-477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-477"><a href="#" itemprop="url"><span itemprop="name">Facebook</span></a></li>
+<li id="menu-item-479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-479"><a href="#" itemprop="url"><span itemprop="name">Google +</span></a></li>
+<li id="menu-item-478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-478"><a href="#" itemprop="url"><span itemprop="name">Dribbble</span></a></li>
+<li id="menu-item-480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-480"><a href="#" itemprop="url"><span itemprop="name">Instagram</span></a></li>
+</ul></div></nav><p>Copyright &#x000A9;&nbsp;2017 &#x000B7; <a href="http://www.studiopress.com/">Genesis Sample</a> on <a href="http://www.studiopress.com/">Genesis Framework</a> &#x000B7; <a href="http://wordpress.org/">WordPress</a> &#x000B7; <a href="https://demo.studiopress.com/genesis-sample/wp-login.php">Log in</a></p></div></footer></div><script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/genesis-sample\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/genesis-sample\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"https:\/\/demo.studiopress.com\/genesis-sample\/woocommerce\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.14'></script>
+<script type='text/javascript' src='//demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/genesis-sample\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/genesis-sample\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.14'></script>
+<script type='text/javascript' src='//demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/genesis-sample\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/genesis-sample\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.14'></script>
+<script type='text/javascript' src='https://demo.studiopress.com/genesis-sample/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.5'></script>
+<script type='text/javascript' src='https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=2.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var genesis_responsive_menu = {"mainMenu":"Menu","menuIconClass":"dashicons-before dashicons-menu","subMenu":"Submenu","subMenuIconsClass":"dashicons-before dashicons-arrow-down-alt2","menuClasses":{"combine":[".nav-primary",".nav-header"],"others":[]}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis-sample/js/responsive-menus.min.js?ver=2.3.0'></script>
+<script type='text/javascript' src='https://demo.studiopress.com/genesis-sample/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+</body></html>
